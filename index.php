@@ -25,7 +25,7 @@ if(!isset($_SESSION["SchoolID"]))
       content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0"
     />
 
-    <title>Student Violation Management System</title>
+    <title>DDeSIVMS</title>
 
     <meta name="description" content="" />
 
